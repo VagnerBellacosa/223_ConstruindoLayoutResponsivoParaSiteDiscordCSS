@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Construindo um Layout Responsivo Para o Site do Discord Com CSS](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/a3cf9543-935b-4977-a33f-7619d3a306d2)[Entendendo o Desafio](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/7d160ecd-2b79-4bf1-b356-b6c4a0119355)
+- [Construindo um Layout Responsivo Para o Site do Discord Com CSS](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/a3cf9543-935b-4977-a33f-7619d3a306d2)
+- [Entendendo o Desafio](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/7d160ecd-2b79-4bf1-b356-b6c4a0119355)
 
 
 
